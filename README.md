@@ -105,3 +105,6 @@ The project combines:
 
 **Finished PCB**
 a photo will be added here 
+
+# LICENSE
+This project is licensed under MIT License, check out [LICENSE](LICENSE.txt) for more details. 
