@@ -107,4 +107,4 @@ The project combines:
 a photo will be added here 
 
 # LICENSE
-This project is licensed under MIT License, check out [LICENSE](LICENSE.txt) for more details. 
+This project is licensed under MIT License, check out [LICENSE](LICENSE) for more details. 
