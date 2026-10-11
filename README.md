@@ -91,17 +91,16 @@ The project combines:
 
 **Schematic** 
 
-<img width="1102" height="763" alt="image" src="https://github.com/user-attachments/assets/41344106-1482-4054-a64a-e4b68676cb39" />
+<img width="1225" height="832" alt="image" src="https://github.com/user-attachments/assets/37fe4e7b-f23c-440e-8609-80ea355e5b5b" />
 
 
 **PCB layout**
 
-<img width="1158" height="772" alt="image" src="https://github.com/user-attachments/assets/a9b2e89d-6178-4e05-9b75-6f9022821803" />
-
+<img width="820" height="551" alt="image" src="https://github.com/user-attachments/assets/7da8b4fe-1532-45b8-8169-103e7a9ab2e3" />
 
 **3d Render**
 
-<img width="765" height="525" alt="image" src="https://github.com/user-attachments/assets/d68ac82f-3e98-4bc5-8330-ee1c570f046d" />
+<img width="746" height="496" alt="image" src="https://github.com/user-attachments/assets/bad14564-1b72-40f7-a6c2-1fb9b49b727e" />
 
 
 **Finished PCB**
