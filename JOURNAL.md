@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-07T09:11:42.905Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvnsb3i011801o9xqn8m9wa). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A custom-designed, compact development board built around the Raspberry Pi RP2040 microcontroller. The board includes native USB-C connectivity, external QSPI flash, 3.3V power regulation, BOOTSEL and reset controls, status indication, and 40GPO breakout pins. It is designed as a general purpose platform for experimenting with embedded programming, sensors, displays, robotics and future hardware projects.
 
