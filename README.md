@@ -111,14 +111,13 @@ The project combines:
 
 <img width="1225" height="832" alt="image" src="https://github.com/user-attachments/assets/37fe4e7b-f23c-440e-8609-80ea355e5b5b" />
 
-
 **PCB layout**
 
-<img width="820" height="551" alt="image" src="https://github.com/user-attachments/assets/7da8b4fe-1532-45b8-8169-103e7a9ab2e3" />
+<img width="782" height="347" alt="image" src="https://github.com/user-attachments/assets/a1671bb0-82b3-4bf9-bb18-1644ea3dbb10" />
 
 **3d Render**
 
-<img width="746" height="496" alt="image" src="https://github.com/user-attachments/assets/bad14564-1b72-40f7-a6c2-1fb9b49b727e" />
+<img width="767" height="347" alt="image" src="https://github.com/user-attachments/assets/c663cf85-b678-4306-976a-c3dd2e523d74" />
 
 
 **Finished PCB**
