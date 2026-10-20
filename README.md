@@ -54,6 +54,33 @@ This can be used to
 - Test GPIO
 - Monitor diagnostic output
 
+# Firmware flashing 
+The devboard uses the RP2040 microcontroller chip. Compatible UF2 firmware can be flashed over USB without an external programmer, provided the board's USB interface and BOOTSEL circuit are functioning correctly. 
+
+# Requirements
+- A USB data cable compatible with the board's USB-C connector
+- A computer running either Windows, macOS, or Linux
+- A compatible .uf2 firmware file
+
+# Instructions 
+1. Obtain the firmware. Download a UF2 firmware file that is compatible with the RP2040 and the intended application. Alternatively, build the firmware from its source code using the appropriate development tools.
+2. Enter BOOTSEL mode. Disconnect the devboard from USB. Press and hold the BOOTSEL button, then connect the board to the computer. Release the button after the computer detects the board.
+3. Open the bootloader drive. The board should appear as a USB mass-storage device named RPI-RP2. If it does not appear, check the connecting cable, power supply, and BOOTSEL circuit.
+4. Copy the firmware. Drag the compatible .uf2 file into the RPI-RP2 drive.
+5. Wait for the installation to finish. The drive should disconnect automatically as the RP2040 reboots and begins running the newly installed firmware.
+6. Test the board. Verify that the firmware behaves as expected. If the application exposes a USB serial interface, open a serial terminal to inspect its output.
+
+# Troubleshooting 
+- The drive does not appear: make sure your USB cable supports data, not just charging. Check that the board receives power and the BOOTSEL circuit is assembled correctly.
+- The firmware is rejected or does not run: confirm that the UF2 file targets the RP2040 and is built for the board's memory layout and hardware.
+- The board does not behave as expected: try a known-compatible firmware image and inspect the power supply, clock circuit (especially this one), flash connections, and USB data routing.
+
+# Important Notes 
+- A UF2 file must be compatible with the RP2040 and the target firmware cofiguration.
+- Flashing new firmware replaces the existing application in flash memory.
+- BOOTSEL mode is implemented in the RP2040's read-only boot ROM, so compatible hardware can normally re-enter the bootloader even if the installed application fails.
+If all else does not work, see the official Raspberry Pi microcontroller chip documentation. 
+
 # Design
 The PCB and schematic are designed using KiCAD. 
 Project files include: 
