@@ -1,0 +1,28 @@
+### Footprint positions - created on 2026-10-23T22:17:30 ###
+### Printed by KiCad version 10.0.5
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                          Package                                                       PosX       PosY       Rot  Side
+C1        100nF                        C_0603_1608Metric                                         201.2500   -64.4500  -90.0000  top
+C2        100nF                        C_0603_1608Metric                                         224.3500   -59.1500  180.0000  top
+C3        100nF                        C_0603_1608Metric                                         209.6000   -64.7500  180.0000  top
+C4        100nF                        C_0603_1608Metric                                         209.6000   -61.6500  180.0000  top
+C5        100nF                        C_0603_1608Metric                                         221.6500   -54.1000    0.0000  top
+C6        100nF                        C_0603_1608Metric                                         211.9500   -62.4000  -90.0000  top
+C7        1uF                          C_0603_1608Metric                                         203.5500   -64.4500   90.0000  top
+C8        100nF                        C_0603_1608Metric                                         209.6000   -63.2000  180.0000  top
+C9        10uF                         C_0603_1608Metric                                         205.7500   -62.6500   90.0000  top
+D1        LED                          LED_0603_1608Metric                                       191.7000   -56.0125   90.0000  top
+J1        USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal   184.4600   -55.8500  -90.0000  top
+J2        Conn_01x20                   PinHeader_1x20_P2.54mm_Vertical                           196.4200   -70.4000   90.0000  top
+J3        Conn_01x20                   PinHeader_1x20_P2.54mm_Vertical                           232.4100   -45.4000  -90.0000  top
+R1        5.1kΩ                        R_0603_1608Metric                                         190.0650   -53.7400   90.0000  top
+R2        5.1kΩ                        R_0603_1608Metric                                         190.1150   -58.4150  -90.0000  top
+R3        1kΩ                          R_0603_1608Metric                                         197.2500   -65.4000    0.0000  top
+SW1       RESET                        SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG                    198.6500   -52.5000  180.0000  top
+SW2       BOOTSEL                      SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG                    198.6500   -59.6000  180.0000  top
+U1        RP2040                       QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm                       216.0000   -56.7125   90.0000  top
+U2        W25Q128JVSIQ                 SOIC-8_5.3x5.3mm_P1.27mm                                  207.4950   -56.2375   90.0000  top
+U3        AMS1117                      SOT-223-3_TabPin2                                         230.6000   -56.8500    0.0000  top
+Y1        12MHz                        Crystal_SMD_3225-4Pin_3.2x2.5mm                           222.2500   -56.6500    0.0000  top
+## End
