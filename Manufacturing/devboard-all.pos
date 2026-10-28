@@ -1,28 +1,41 @@
-### Footprint positions - created on 2026-10-23T22:17:30 ###
+### Footprint positions - created on 2026-10-29T01:24:29 ###
 ### Printed by KiCad version 10.0.5
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val                          Package                                                       PosX       PosY       Rot  Side
-C1        100nF                        C_0603_1608Metric                                         201.2500   -64.4500  -90.0000  top
-C2        100nF                        C_0603_1608Metric                                         224.3500   -59.1500  180.0000  top
-C3        100nF                        C_0603_1608Metric                                         209.6000   -64.7500  180.0000  top
-C4        100nF                        C_0603_1608Metric                                         209.6000   -61.6500  180.0000  top
-C5        100nF                        C_0603_1608Metric                                         221.6500   -54.1000    0.0000  top
-C6        100nF                        C_0603_1608Metric                                         211.9500   -62.4000  -90.0000  top
-C7        1uF                          C_0603_1608Metric                                         203.5500   -64.4500   90.0000  top
-C8        100nF                        C_0603_1608Metric                                         209.6000   -63.2000  180.0000  top
-C9        10uF                         C_0603_1608Metric                                         205.7500   -62.6500   90.0000  top
-D1        LED                          LED_0603_1608Metric                                       191.7000   -56.0125   90.0000  top
+C1        100nF                        C_0603_1608Metric                                         204.8764   -63.1190  180.0000  top
+C2        100nF                        C_0603_1608Metric                                         192.9130   -64.6938  180.0000  top
+C3        100nF                        C_0603_1608Metric                                         207.8482   -63.7032  180.0000  top
+C4        100nF                        C_0603_1608Metric                                         203.8096   -51.7652   90.0000  top
+C5        100nF                        C_0603_1608Metric                                         224.3058   -52.6034    0.0000  top
+C6        100nF                        C_0603_1608Metric                                         224.2312   -54.1020    0.0000  top
+C7        1uF                          C_0603_1608Metric                                         223.4438   -60.6044  180.0000  top
+C8        100nF                        C_0603_1608Metric                                         204.0636   -61.6458  180.0000  top
+C9        10uF                         C_0603_1608Metric                                         192.9130   -63.2206  180.0000  top
+C10       1uF                          C_0603_1608Metric                                         221.2594   -52.6796    0.0000  top
+C11       15pF                         C_0603_1608Metric                                         223.4438   -59.1312    0.0000  top
+C12       15pF                         C_0603_1608Metric                                         221.2086   -59.8932   90.0000  top
+C13       100nF                        C_0603_1608Metric                                         228.9810   -54.7624  180.0000  top
+C14       100nF                        C_0603_1608Metric                                         195.9102   -63.2206    0.0000  top
+C15       100nF                        C_0603_1608Metric                                         198.9074   -63.1952  180.0000  top
+C16       100nF                        C_0603_1608Metric                                         201.8792   -63.1952    0.0000  top
+C17       10uF                         C_0603_1608Metric                                         228.9810   -57.3532  180.0000  top
+D1        LED                          LED_0603_1608Metric                                       189.9412   -63.1952    0.0000  top
 J1        USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal   184.4600   -55.8500  -90.0000  top
-J2        Conn_01x20                   PinHeader_1x20_P2.54mm_Vertical                           196.4200   -70.4000   90.0000  top
-J3        Conn_01x20                   PinHeader_1x20_P2.54mm_Vertical                           232.4100   -45.4000  -90.0000  top
+J2        Conn_01x20                   PinHeader_1x20_P2.54mm_Vertical                           196.3420   -68.9864   90.0000  top
+J3        Conn_01x20                   PinHeader_1x20_P2.54mm_Vertical                           232.2576   -45.4000  -90.0000  top
 R1        5.1kΩ                        R_0603_1608Metric                                         190.0650   -53.7400   90.0000  top
-R2        5.1kΩ                        R_0603_1608Metric                                         190.1150   -58.4150  -90.0000  top
-R3        1kΩ                          R_0603_1608Metric                                         197.2500   -65.4000    0.0000  top
-SW1       RESET                        SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG                    198.6500   -52.5000  180.0000  top
-SW2       BOOTSEL                      SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG                    198.6500   -59.6000  180.0000  top
-U1        RP2040                       QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm                       216.0000   -56.7125   90.0000  top
-U2        W25Q128JVSIQ                 SOIC-8_5.3x5.3mm_P1.27mm                                  207.4950   -56.2375   90.0000  top
-U3        AMS1117                      SOT-223-3_TabPin2                                         230.6000   -56.8500    0.0000  top
-Y1        12MHz                        Crystal_SMD_3225-4Pin_3.2x2.5mm                           222.2500   -56.6500    0.0000  top
+R2        5.1kΩ                        R_0603_1608Metric                                         189.9920   -60.4012  -90.0000  top
+R3        1kΩ                          R_0603_1608Metric                                         193.8020   -68.7324   90.0000  top
+R4        1k                           R_0603_1608Metric                                         202.6036   -55.2196    0.0000  top
+R5        10k                          R_0603_1608Metric                                         210.7184   -61.1378   90.0000  top
+R6        1k                           R_0603_1608Metric                                         221.2472   -54.1528  180.0000  top
+R8        27                           R_0603_1608Metric                                         192.3288   -55.2196  180.0000  top
+R9        27                           R_0603_1608Metric                                         189.9920   -57.4162  -90.0000  top
+SW1       RESET                        SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG                    196.6976   -59.2074    0.0000  top
+SW2       BOOTSEL                      SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG                    196.6756   -51.2424    0.0000  top
+U1        RP2040                       QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm                       215.4682   -56.7125   90.0000  top
+U2        W25Q128JVSIQ                 SOIC-8_5.3x5.3mm_P1.27mm                                  207.0608   -56.1848   90.0000  top
+U3        AMS1117-3.3                  SOT-223-3_TabPin2                                         234.8738   -54.9148    0.0000  top
+Y1        12MHz                        Crystal_SMD_3225-4Pin_3.2x2.5mm                           221.7182   -56.6500    0.0000  top
 ## End
